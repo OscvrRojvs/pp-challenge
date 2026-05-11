@@ -1,4 +1,4 @@
-# Historial de Transacciones — PP Challenge
+# Historial de Transacciones 
 
 Módulo de historial de transacciones para operadores internos de un banco digital.
 
